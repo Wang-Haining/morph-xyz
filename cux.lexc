@@ -5,7 +5,6 @@ Multichar_Symbols
 %<px1sg%> 	! Persona
 %<px2sg%> 	! Persona
 
-
 LEXICON Root
 
 Sustantivos ; 
@@ -20,18 +19,15 @@ duchí% ndátá%<n%>:duchí% ndátá POSS ; ! "planta"
 yánún% yá'an%<n%>:yánún% yá'an POSS ; ! "temblor"
 nd'atkwó'o%<n%>:nd'atkwó'o POSS ; ! "jitomate"
 yudu%<n%>:yudu POSS ; ! "metate"
-yúta%<n%>:yúta POSS ; ! "carne"
 yámìn%<n%>:yámìn POSS ; ! "espiga"
 yan% cheété%<n%>:yan% cheété POSS ; ! "lodo"
 íyo%<n%>:íyo POSS ; ! "mes"
-ndutkú'ún%<n%>:ndutkú'ún POSS ; ! "árbol% de% copal"
+ndutkú'ún%<n%>:ndutkú'ún POSS ; ! "árbol de copal"
 kwó'o%<n%>:kwó'o POSS ; ! "rojo"
 yóòn%<n%>:yóòn POSS ; ! "pueblo"
 dutú'ú%<n%>:dutú'ú POSS ; ! "huevo"
 íyu%<n%>:íyu POSS ; ! "luna"
-ko'o%<n%>:ko'o POSS ; ! "pie"
 ínú%<n%>:ínú POSS ; ! "tres"
-dim'man%<n%>:dim'man POSS ; ! "pierna"
 dútyó'ón%<n%>:dútyó'ón  POSS ; ! "árbol"
 bá'ku%<n%>:bá'ku POSS ; ! "cárcel"
 kwéé%<n%>:kwéé POSS ; ! "verde"
@@ -69,7 +65,6 @@ yúdu%<n%>:yúdu POSS ; ! "caballo"
 inni%<n%>:inni POSS ; ! "aguja"
 y'áan%<n%>:y'áan POSS ; ! "chicozapote"
 y'abi%<n%>:y'abi POSS ; ! "anoche"
-tiu%<n%>:tiu POSS ; ! "cabeza"
 jikyá'án%<n%>:jikyá'án POSS ; ! "cerro"
 yúku%<n%>:yúku POSS ; ! "calabaza"
 lunchí%<n%>:lunchí POSS ; ! "borrego"
@@ -106,7 +101,6 @@ kakà%<n%>:kakà POSS ; ! "peine "
 itíndu%<n%>:itíndu POSS ; ! "buey"
 yachì%<n%>:yachì POSS ; ! "masa"
 ámá%<n%>:ámá POSS ; ! "uno"
-nduu%<n%>:nduu POSS ; ! "vena"
 ítsá'an%<n%>:ítsá'an POSS ; ! "macho"
 yáku%<n%>:yáku POSS ; ! "iglesia"
 mée'%<n%>:mée' POSS ; ! "nube"
@@ -181,13 +175,21 @@ tyáká%<n%>:tyáká POSS ; ! "plátano"
 ya'a%<n%>:ya'a POSS ; ! "jícara"
 yádí%<n%>:yádí POSS ; ! "dulce"
 dúnan% yó'ón%<n%>:dúnan% yó'ón POSS ; ! "rama"
+yúta%<n%>:yúta POSS ; ! "carne"
+ko'o%<n%>:ko'o POSS ; ! "pie"
+dim'man%<n%>:dim'man POSS ; ! "pierna"
+nduu%<n%>:nduu POSS ; ! "vena"
+ti%<n%>:ti POSS ; ! "cabeza"
+nunday%<n%>:nunday POSS ; ! "saliva"
+to'o%<n%>:to'o POSS ; ! "mano"
+yúta%<n%>:yúta POSS ; ! "carne"
 
 LEXICON POSS
 
 %<poss%>:%>ye PERS ; 
 
 LEXICON PERS
-
+%<px1sg%>:%>´ # ;
 %<px2sg%>:%>d  # ;
 %<px3sg%>%<m%>:%>s  # ;
 %<px3sg%>%<f%>:%>ta  # ;
