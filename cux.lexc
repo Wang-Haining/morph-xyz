@@ -5,6 +5,10 @@ Multichar_Symbols
 %<px1sg%> 	! Persona
 %<px2sg%> 	! Persona
 
+%{V%}
+
+%>
+
 LEXICON Root
 
 Sustantivos ; 
@@ -189,7 +193,7 @@ LEXICON POSS
 %<poss%>:%>ye PERS ; 
 
 LEXICON PERS
-%<px1sg%>:%>´ # ;
+%<px1sg%>:%>%{V%}´ # ;
 %<px2sg%>:%>d  # ;
 %<px3sg%>%<m%>:%>s  # ;
 %<px3sg%>%<f%>:%>ta  # ;
