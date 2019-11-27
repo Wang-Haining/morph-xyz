@@ -191,9 +191,10 @@ yúta%<n%>:yúta POSS ; ! "carne"
 LEXICON POSS
 
 %<poss%>:%>ye PERS ; 
+%<poss%>%<px1sg%>:%>%{V%}´ # ; 
 
 LEXICON PERS
-%<px1sg%>:%>%{V%}´ # ;
+
 %<px2sg%>:%>d  # ;
 %<px3sg%>%<m%>:%>s  # ;
 %<px3sg%>%<f%>:%>ta  # ;
