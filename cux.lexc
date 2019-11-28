@@ -4,6 +4,8 @@ Multichar_Symbols
 %<poss%>   ! Posesivo
 %<px1sg%> 	! Persona
 %<px2sg%> 	! Persona
+%<num%>		!Numerales
+%<rel%>		!Relativo
 
 %{V%}
 
@@ -12,8 +14,18 @@ Multichar_Symbols
 LEXICON Root
 
 Sustantivos ; 
+Numerales ;
+Relativo ;
+
+
+LEXICON Numerales
+ʼáamá%<num%>:ʼáámá #;
+
+LEXICON Relativo
+chi%<rel%>:chi ; ! "que"
 
 LEXICON Sustantivos 
+
 
 kwáá%<n%>:kwáá POSS ; ! "negro"
 íku%<n%>:íku POSS ; ! "piojo"
@@ -182,11 +194,15 @@ dúnan% yó'ón%<n%>:dúnan% yó'ón POSS ; ! "rama"
 yúta%<n%>:yúta POSS ; ! "carne"
 ko'o%<n%>:ko'o POSS ; ! "pie"
 dim'man%<n%>:dim'man POSS ; ! "pierna"
-nduu%<n%>:nduu POSS ; ! "vena"
-ti%<n%>:ti POSS ; ! "cabeza"
+nduʼu%<n%>:nduʼu POSS ; ! "vena"
 nunday%<n%>:nunday POSS ; ! "saliva"
 to'o%<n%>:to'o POSS ; ! "mano"
 yúta%<n%>:yúta POSS ; ! "carne"
+Ndyus%<n%>:Ndyus POSS ; ! "Dios"
+Juan%<n%>:Juan POSS ; ! "Juan"
+Cristo%<n%>:Cristo POSS ; ! "Cristo"
+tiīin%<n%>:tiīin POSS ; ! "cabeza"
+Yáacū%<n%>:Yáacū POSS ; ! "Iglesia"
 
 LEXICON POSS
 
